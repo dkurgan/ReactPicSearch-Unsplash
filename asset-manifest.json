@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactPicSearch-Unsplash/static/css/main.816022de.chunk.css",
+    "main.js": "/ReactPicSearch-Unsplash/static/js/main.7a0c623f.chunk.js",
+    "main.js.map": "/ReactPicSearch-Unsplash/static/js/main.7a0c623f.chunk.js.map",
+    "runtime-main.js": "/ReactPicSearch-Unsplash/static/js/runtime-main.5a409bb4.js",
+    "runtime-main.js.map": "/ReactPicSearch-Unsplash/static/js/runtime-main.5a409bb4.js.map",
+    "static/js/2.b1a14096.chunk.js": "/ReactPicSearch-Unsplash/static/js/2.b1a14096.chunk.js",
+    "static/js/2.b1a14096.chunk.js.map": "/ReactPicSearch-Unsplash/static/js/2.b1a14096.chunk.js.map",
+    "index.html": "/ReactPicSearch-Unsplash/index.html",
+    "precache-manifest.747978d060aa73a5a80b2dbf38e79459.js": "/ReactPicSearch-Unsplash/precache-manifest.747978d060aa73a5a80b2dbf38e79459.js",
+    "service-worker.js": "/ReactPicSearch-Unsplash/service-worker.js",
+    "static/css/main.816022de.chunk.css.map": "/ReactPicSearch-Unsplash/static/css/main.816022de.chunk.css.map",
+    "static/js/2.b1a14096.chunk.js.LICENSE.txt": "/ReactPicSearch-Unsplash/static/js/2.b1a14096.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a409bb4.js",
+    "static/js/2.b1a14096.chunk.js",
+    "static/css/main.816022de.chunk.css",
+    "static/js/main.7a0c623f.chunk.js"
+  ]
+}
