@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is deplyoed here: (http://dkurgan.github.io/ReactPicSearch-Unsplash)
 
 ## Available Scripts
 
